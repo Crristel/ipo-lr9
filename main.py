@@ -1,4 +1,3 @@
-
 from collision import *
 print("Функция isCorrectRect\n")
 print(isCorrectRect([(-3.4, 1), (9.2, 10)]))
@@ -35,6 +34,3 @@ incorrect_rectangles = [
     [(3, 17), (13, 1)]
 ]
 print(intersectionAreaMultiRect(incorrect_rectangles))
-
-
-
